@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>How many years of warranty are expected?</help>
+    <label>Warranty</label>
+    <name>plWarranty__c</name>
+    <picklistValues>
+        <masterLabel>Ein Jahr</masterLabel>
+        <translation>One years</translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Zwei Jahre</masterLabel>
+        <translation>Two years</translation>
+    </picklistValues>
+</CustomFieldTranslation>

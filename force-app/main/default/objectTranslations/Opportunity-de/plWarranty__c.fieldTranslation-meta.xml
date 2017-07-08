@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Wie lang soll eine Garantie gelten? --></help>
+    <label><!-- Garantie --></label>
+    <name>plWarranty__c</name>
+    <picklistValues>
+        <masterLabel>Ein Jahr</masterLabel>
+        <translation><!-- Ein Jahr --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Zwei Jahre</masterLabel>
+        <translation><!-- Zwei Jahre --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

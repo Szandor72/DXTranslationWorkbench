@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>plWarranty__c</fullName>
+    <defaultValue>"Ein Jahr"</defaultValue>
+    <description>Der erwartete Garantieleistungszeitraum.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Wie lang soll eine Garantie gelten?</inlineHelpText>
+    <label>Garantie</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Ein Jahr</fullName>
+                <default>false</default>
+                <label>Ein Jahr</label>
+            </value>
+            <value>
+                <fullName>Zwei Jahre</fullName>
+                <default>false</default>
+                <label>Zwei Jahre</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
