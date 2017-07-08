@@ -4,11 +4,12 @@
 Translation functions
 
 ## Resources
-Opportunity Quick Action called 'Action'
-Should read for German Users 'Bearbeiten'
+Custom Field Picklist Opportunity.plWarranty__c - values, helptext, fieldname translated
+Opportunity Quick Action called 'Bearbeiten' in German
+Should read for English Users 'LOOKFORMEINSOURCE'
 
 ## Description of Files and Directories
-
+![Prove of Setup](https://i.imgur.com/jSGFaM5.png)
 
 ## Issues
 
