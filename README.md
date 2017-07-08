@@ -8,7 +8,7 @@ Opportunity Quick Action called 'Action'
 Should read for German Users 'Bearbeiten'
 
 ## Description of Files and Directories
-![Prove of Setup](https://i.imgur.com/jSGFaM5.png)
+![Prove of Setup](https://i.imgur.com/ZOjsusJ.png)
 
 ## Issues
 
